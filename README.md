@@ -6,8 +6,8 @@ Please see document "proposal" for quick explanation.  This is the main Git repo
 3. [proposal](https://docs.google.com/document/d/1kcKAlGf1rcWNqppuK8aESp_WY6DdF3gNm8PWyMmkxI0/edit?usp=sharing)
 4. [baseline](https://github.com/tiadvani/sb_capstone2/blob/master/sai_baseline.ipynb)
 5. [milestone](https://github.com/tiadvani/sb_capstone2/blob/master/milestone.md)
-6. [analysis_1](https://github.com/tiadvani/sb_capstone2/blob/master/sai_analysis1.ipynb)
-7. [analysis_2](https://github.com/tiadvani/sb_capstone2/blob/master/sai_analysis1.ipynb)
+6. [analysis_1](https://github.com/tiadvani/sb_capstone2/blob/master/sai_a1_nb_logreg.ipynb)
+7. [analysis_2](https://github.com/tiadvani/sb_capstone2/blob/master/sai_a2_random_forest.ipynb)
 8. [final v0.1](https://docs.google.com/document/d/1Op83c0KIX4O_e8FjhLom6h593R4GltCvE8Abs_kQ34c/edit?usp=sharing) 
 
 
