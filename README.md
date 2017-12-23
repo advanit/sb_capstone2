@@ -9,6 +9,7 @@ Please see document "proposal" for quick explanation.  This is the main Git repo
 6. [analysis_1](https://github.com/tiadvani/sb_capstone2/blob/master/sai_a1_nb_logreg.ipynb)
 7. [analysis_2](https://github.com/tiadvani/sb_capstone2/blob/master/sai_a2_random_forest.ipynb)
 8. [final v0.1](https://docs.google.com/document/d/1Op83c0KIX4O_e8FjhLom6h593R4GltCvE8Abs_kQ34c/edit?usp=sharing) 
+9. [slidedeck_v0](https://docs.google.com/presentation/d/1bbYKQf6ljXv_NlpymI-36DwB31bdXmBA3wyLzYKoVuE/edit?usp=sharing)
 
 
 ## Materials
