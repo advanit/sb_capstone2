@@ -12,10 +12,9 @@ Please see document "proposal" for quick explanation.  This is the main Git repo
 2. [test.csv](https://github.com/tiadvani/sb_capstone2/blob/master/test.csv)
 
 ## Analyses
-1. [baseline](https://github.com/tiadvani/sb_capstone2/blob/master/sai_baseline.ipynb)
-2. [analysis_nb_logreg](https://github.com/tiadvani/sb_capstone2/blob/master/sai_a1_nb_logreg.ipynb) (Initial ML Algorithms)
-3. [analysis_rf](https://github.com/tiadvani/sb_capstone2/blob/master/sai_a2_random_forest.ipynb) (Random Forest Analysis)
-4. [analysis_tfidf](https://github.com/tiadvani/sb_capstone2/blob/master/sai_a3_tfidf.ipynb) (Using TF-IDF)
+1. [analysis_nb_logreg](https://github.com/tiadvani/sb_capstone2/blob/master/sai_a1_nb_logreg.ipynb) (Initial ML Algorithms)
+2. [analysis_rf](https://github.com/tiadvani/sb_capstone2/blob/master/sai_a2_random_forest.ipynb) (Random Forest Analysis)
+3. [analysis_tfidf](https://github.com/tiadvani/sb_capstone2/blob/master/sai_a3_tfidf.ipynb) (Using TF-IDF)
 
 
 ## Materials
