@@ -2,7 +2,7 @@
 Please see document "proposal" for quick explanation.  This is the main Git repository for capstone 2.  This will include code and relevant materials regarding the work.  
 
 ## Submissions
-1. [final v1.0](https://docs.google.com/document/d/1Op83c0KIX4O_e8FjhLom6h593R4GltCvE8Abs_kQ34c/edit?usp=sharing) 
+1. [final v1.1](https://docs.google.com/document/d/1Op83c0KIX4O_e8FjhLom6h593R4GltCvE8Abs_kQ34c/edit?usp=sharing) 
 2. [slidedeck_v1.0](https://docs.google.com/presentation/d/1bbYKQf6ljXv_NlpymI-36DwB31bdXmBA3wyLzYKoVuE/edit?usp=sharing)
 3. [milestone](https://github.com/tiadvani/sb_capstone2/blob/master/milestone.md)
 4. [proposal](https://docs.google.com/document/d/1kcKAlGf1rcWNqppuK8aESp_WY6DdF3gNm8PWyMmkxI0/edit?usp=sharing)
